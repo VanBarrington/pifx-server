@@ -7,5 +7,9 @@
     "type": "git"
   },
   "author": "Thomas Van Dort <tvandort@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^1.13.3"
+  }
 }
