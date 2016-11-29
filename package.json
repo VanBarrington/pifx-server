@@ -1,0 +1,11 @@
+{
+  "name": "pifx-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/VanBarrington/pifx-server.git",
+    "type": "git"
+  },
+  "author": "Thomas Van Dort <tvandort@outlook.com>",
+  "license": "MIT"
+}
